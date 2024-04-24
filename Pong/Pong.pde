@@ -149,7 +149,7 @@ void draw() {
     text("Player 1: Q | A     Player 2: P | L", 20, 25);
     textAlign(RIGHT, TOP);
     textSize(16);
-    text("Pressione Enter para começar", width - 20, 25);
+    text("Pressione ESPAÇO para começar", width - 20, 25);
   }
 }
 
